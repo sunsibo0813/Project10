@@ -1,4 +1,15 @@
-﻿#include <iostream>
+/* ---------------------------------------------------------------------------
+** I attest that this following code represents my own work and is subject to
+** the plagiarism policy found in the course syllabus.
+**
+** Class: 	CSC 242
+** Assignment: 	5
+** File: 	source.cpp
+** Description: C++ program that encrypts or decrypts text from a file using the Caesar cipher, shifting only letters and keeping other characters unchanged.
+**
+** Author: 	Rahmati Govari, Pejman. Rawat, Upendra. Sun,Sibo. Valenzuela, Vivian.
+** Date: 	20NOV2025
+** -------------------------------------------------------------------------*/﻿#include <iostream>
 #include <fstream>
 #include <string>
 using namespace std;
