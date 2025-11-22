@@ -1,0 +1,19 @@
+﻿-​‍​‌‍​‍‌​‍​‌‍​‍‌ Request the user to choose between encryption and decryption.
+
+- Request the shift number.
+
+- Read line by line from input.txt.
+
+- Process each line:
+
+- When encrypting → move letters forward by the shift number.
+
+- When decrypting → move letters backward by the shift number.
+
+- Display the original as well as the resulting text.
+
+- Write the result to output.txt.
+
+- Close all the files.
+
+- Inform the user that the files have been ​‍​‌‍​‍‌​‍​‌‍​‍‌saved.
